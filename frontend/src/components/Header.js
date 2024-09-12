@@ -58,8 +58,8 @@ const Header = () => {
             <div className=''>
                 <Link to={"/"}>
                 <h1 className='font-bold text-sm sm:text-xl flex flex-wrap'>
-            <span className='text-amber-700'>ESTARAB</span>
-            <span className='text-slate-500'>GARDENS</span>
+            <span className='text-amber-700'>AB </span>
+            <span className='text-slate-500'>NATION</span>
           </h1>
                     { /* <Logo w={90} h={50}/> */}
                 </Link>
