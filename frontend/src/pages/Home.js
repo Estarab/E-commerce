@@ -10,17 +10,17 @@ const Home = () => {
       <CategoryList/>
       <BannerProduct/>
 
-      <HorizontalCardProduct category={"airpodes"} heading={"Top's Airpodes"}/>
-      <HorizontalCardProduct category={"watches"} heading={"Popular's Watches"}/>
+      <HorizontalCardProduct category={"ashok"} heading={"Ashok Trees"}/>
+      <HorizontalCardProduct category={"cuban royal palms"} heading={"Cuban Royal Palms"}/>
 
-      <VerticalCardProduct category={"mobiles"} heading={"Mobiles"}/>
-      <VerticalCardProduct category={"Mouse"} heading={"Mouse"}/>
-      <VerticalCardProduct category={"televisions"} heading={"Televisions"}/>
-      <VerticalCardProduct category={"camera"} heading={"Camera & Photography"}/>
-      <VerticalCardProduct category={"earphones"} heading={"Wired Earphones"}/>
-      <VerticalCardProduct category={"speakers"} heading={"Bluetooth Speakers"}/>
-      <VerticalCardProduct category={"refrigerator"} heading={"Refrigerator"}/>
-      <VerticalCardProduct category={"trimmers"} heading={"Trimmers"}/>
+      <VerticalCardProduct category={"cornifers"} heading={"Cornifers"}/>
+      <VerticalCardProduct category={"blossoms"} heading={"Blossoms"}/>
+      <VerticalCardProduct category={"cactus"} heading={"Cactus"}/>
+      <VerticalCardProduct category={"trees"} heading={"Trees"}/>
+      <VerticalCardProduct category={"ashok"} heading={"Ashok"}/>
+      <VerticalCardProduct category={"swanes gold"} heading={"Swanes Gold"}/>
+      <VerticalCardProduct category={"palm trees"} heading={"Palm Trees"}/>
+      <VerticalCardProduct category={"roses"} heading={"Roses"}/>
     </div>
   )
 }

@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className='bg-slate-200'>
       <div className='container mx-auto p-4'>
-       <p className='text-center font-bold' title="Youtube Channel">AB Nation Tech</p>
+       <p className='text-center font-bold' title="Youtube Channel">Estarab Gardens. All Rights Reserved.Developed by AB Nation Tech</p>
       </div>
     </footer>
   )
